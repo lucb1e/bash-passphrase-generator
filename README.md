@@ -1,4 +1,4 @@
-bash-passphrase-generator
+Passphrase generator written in Bash
 =========================
 
 Moderately secure password generator written in bash. At least it's better than generating your own passphrases :)
